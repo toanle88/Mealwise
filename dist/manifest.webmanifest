@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Cơm Nhà — Hôm nay ăn gì?",
+  "short_name": "Cơm Nhà",
+  "description": "Thực đơn cơm nhà mỗi tuần, nguyên liệu và công thức cho gia đình.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f8f5",
+  "theme_color": "#176b54",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
