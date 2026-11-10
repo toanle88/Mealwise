@@ -1,5 +1,5 @@
-const CACHE_NAME = 'com-nha-shell-v2';
-const SHELL = ['./', './index.html', './menu-data.js', './recipe-details.js', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png'];
+const CACHE_NAME = 'com-nha-shell-v3';
+const SHELL = ['./', './index.html', './styles.css', './app.js', './menu-data.js', './recipe-details.js', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(SHELL)).then(() => self.skipWaiting()));
 });
