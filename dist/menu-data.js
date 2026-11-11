@@ -37,7 +37,17 @@
       dish('squid-pineapple','Mực xào dứa','Squid and pineapple stir-fry','🦑',25,'seafood',['mực ống|squid|g|350','thơm|pineapple|g|200','cà chua|tomato|g|150']),
       dish('squid-celery','Mực xào cần tây','Squid and celery stir-fry','🦑',20,'seafood',['mực ống|squid|g|350','cần tây|celery|g|150','hành tây|onion|g|80']),
       dish('shrimp-broccoli','Tôm xào bông cải','Shrimp and broccoli stir-fry','🍤',22,'seafood',['tôm|shrimp|g|300','bông cải xanh|broccoli|g|250','cà rốt|carrot|g|80']),
-      dish('seafood-veg-stirfry','Hải sản xào rau củ','Seafood and vegetable stir-fry','🦐',25,'seafood',['tôm|shrimp|g|180','mực ống|squid|g|180','bông cải xanh|broccoli|g|150'])
+      dish('seafood-veg-stirfry','Hải sản xào rau củ','Seafood and vegetable stir-fry','🦐',25,'seafood',['tôm|shrimp|g|180','mực ống|squid|g|180','bông cải xanh|broccoli|g|150']),
+      dish('chicken-lemongrass-chili','Gà kho sả ớt','Lemongrass chili-braised chicken','🍗',45,'meat',['thịt gà|chicken|g|600','sả|lemongrass|g|45','ớt đỏ|red chili|quả|1']),
+      dish('chicken-coconut-braise','Gà kho nước dừa','Chicken braised in coconut water','🥥',50,'meat',['thịt gà|chicken|g|600','nước dừa tươi|fresh coconut water|ml|400','hành tím|shallot|g|25']),
+      dish('pork-pickled-mustard-braise','Ba chỉ kho dưa cải','Pork belly braised with pickled mustard greens','🥬',45,'meat',['thịt ba chỉ|pork belly|g|450','dưa cải chua|pickled mustard greens|g|300','cà chua|tomato|g|150']),
+      dish('pork-daikon-braise','Thịt kho củ cải','Pork braised with daikon','🥕',55,'meat',['thịt ba chỉ|pork belly|g|450','củ cải trắng|daikon|g|350','nước dừa tươi|fresh coconut water|ml|200']),
+      dish('snakehead-turmeric-braise','Cá lóc kho nghệ','Snakehead fish braised with turmeric','🐟',35,'fish',['cá lóc|snakehead fish|g|500','nghệ tươi|fresh turmeric|g|20','hành tím|shallot|g|20']),
+      dish('shrimp-pork-caramel','Tôm rang thịt ba chỉ','Caramelized shrimp and pork belly','🍤',30,'seafood',['tôm|shrimp|g|250','thịt ba chỉ|pork belly|g|200','nước mắm|fish sauce|ml|18']),
+      dish('ribs-pineapple-braise','Sườn heo kho thơm','Pork ribs braised with pineapple','🍍',55,'meat',['sườn heo|pork ribs|g|500','thơm|pineapple|g|200','nước mắm|fish sauce|ml|20']),
+      dish('pork-meatballs-tomato','Thịt viên sốt cà chua','Pork meatballs in tomato sauce','🍅',35,'meat',['thịt heo xay|ground pork|g|350','cà chua|tomato|g|300','trứng gà|egg|quả|1']),
+      dish('stuffed-tofu-tomato','Đậu hũ nhồi thịt sốt cà chua','Pork-stuffed tofu in tomato sauce','🍅',35,'meat',['đậu hũ|tofu|bìa|3','thịt heo xay|ground pork|g|180','cà chua|tomato|g|250']),
+      dish('eggplant-pork-stirfry','Cà tím xào thịt bằm','Eggplant and minced pork stir-fry','🍆',30,'meat',['cà tím|eggplant|g|400','thịt heo xay|ground pork|g|180','hành lá|spring onion|g|15'])
     ],
     soup:[
       dish('soup-malong','Canh rau ngót thịt bằm','Sweet leaf soup with pork','🥬',20,'veg',['rau ngót|sweet leaf|g|250','thịt heo xay|ground pork|g|150']),
@@ -54,7 +64,9 @@
       dish('soup-mushroom-tofu','Canh nấm đậu hũ','Mushroom & tofu soup','🍄',20,'veg',['đậu hũ|tofu|bìa|2','nấm hương|shiitake mushrooms|g|150','hành lá|spring onion|g|10']),
       dish('soup-tomato-egg','Canh cà chua trứng','Tomato & egg soup','🍅',15,'veg',['cà chua|tomato|g|250','trứng gà|eggs|quả|2','hành lá|spring onion|g|10']),
       dish('soup-daikon','Canh củ cải trắng nấu thịt','Daikon & pork soup','🥕',25,'meat',['củ cải trắng|daikon|g|300','thịt heo xay|ground pork|g|120','hành lá|spring onion|g|10']),
-      dish('soup-amaranth','Canh rau dền nấu tôm','Amaranth greens & shrimp soup','🌱',18,'seafood',['rau dền|amaranth greens|g|250','tôm|shrimp|g|150'])
+      dish('soup-amaranth','Canh rau dền nấu tôm','Amaranth greens & shrimp soup','🌱',18,'seafood',['rau dền|amaranth greens|g|250','tôm|shrimp|g|150']),
+      dish('soup-purple-yam-pork','Canh khoai mỡ thịt bằm','Purple yam soup with minced pork','🍠',30,'meat',['khoai mỡ|purple yam|g|350','thịt heo xay|ground pork|g|150','rau ngò om|rice paddy herb|g|10']),
+      dish('soup-wintermelon-shrimp','Canh bí xanh nấu tôm','Winter melon and shrimp soup','🥣',25,'seafood',['bí xanh|winter melon|g|350','tôm|shrimp|g|180','hành lá|spring onion|g|10'])
     ],
     veg:[
       dish('veg-morning-boil','Rau muống luộc','Boiled water spinach','🥬',12,'veg',['rau muống|water spinach|g|350']),
@@ -71,7 +83,10 @@
       dish('veg-mixed-boil','Rau củ luộc thập cẩm','Mixed boiled vegetables','🥕',18,'veg',['cà rốt|carrot|g|100','bông cải xanh|broccoli|g|150','đậu que|green beans|g|120']),
       dish('veg-cucumber-tomato','Dưa leo cà chua','Cucumber & tomato salad','🥒',10,'veg',['dưa leo|cucumber|g|200','cà chua|tomato|g|180']),
       dish('veg-sprout-chive','Giá xào hẹ','Bean sprouts & chives','🌱',12,'veg',['giá đỗ|bean sprouts|g|250','hẹ|garlic chives|g|80']),
-      dish('veg-mushroom-garlic','Nấm xào tỏi','Garlic mushrooms','🍄',15,'veg',['nấm đùi gà|king oyster mushrooms|g|250','tỏi|garlic|g|12'])
+      dish('veg-mushroom-garlic','Nấm xào tỏi','Garlic mushrooms','🍄',15,'veg',['nấm đùi gà|king oyster mushrooms|g|250','tỏi|garlic|g|12']),
+      dish('veg-luffa-egg','Mướp xào trứng','Luffa gourd and egg stir-fry','🥒',18,'veg',['mướp|luffa gourd|g|350','trứng gà|eggs|quả|3','hành lá|spring onion|g|10']),
+      dish('veg-sweet-potato-leaves-boil','Rau lang luộc','Boiled sweet potato leaves','🥬',12,'veg',['rau lang|sweet potato leaves|g|350']),
+      dish('veg-sweet-potato-leaves-garlic','Rau lang xào tỏi','Garlic sweet potato leaves','🥬',15,'veg',['rau lang|sweet potato leaves|g|350','tỏi|garlic|g|15'])
     ],
     meal:[
       dish('meal-chicken-fried-rice','Cơm chiên gà','Chicken fried rice','🍚',25,'meal',['cơm nguội|cooked rice|g|400','thịt gà|chicken|g|180','trứng gà|eggs|quả|2','cà rốt|carrot|g|80']),

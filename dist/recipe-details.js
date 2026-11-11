@@ -1053,6 +1053,171 @@
       'Cook vermicelli according to the package and drain. Rinse lettuce, spearmint, perilla, and cucumber; cut cucumber into batons. Finely chop pineapple, garlic, and chili.',
       'Mix fermented anchovy sauce with pineapple, garlic, chili, sugar, lime juice, and 2–3 tablespoons warm water; adjust to taste. Briefly dip each rice-paper sheet until pliable.',
       'Layer lettuce, herbs, cucumber, noodles, and pork on the rice paper. Fold both sides and roll snugly; serve promptly with the fermented anchovy dip.'
+    ]),
+    'chicken-lemongrass-chili':rec(['thịt gà|chicken|g|600','sả|lemongrass|g|45','ớt đỏ|red chili|quả|1','hành tím|shallot|g|20','tỏi|garlic|g|10','nước mắm|fish sauce|ml|25','đường|sugar|g|10','tiêu đen|black pepper|g|1','dầu ăn|cooking oil|ml|15','nước lọc|water|ml|150'],[
+      'Chặt gà thành miếng 4–5 cm, thấm khô. Bóc lớp già của sả, rửa sạch rồi băm nhỏ phần gốc; thái lát phần ngọn. Băm hành tím, tỏi và ớt.',
+      'Ướp gà với nước mắm, đường, tiêu, một nửa sả, hành tím và tỏi. Đậy kín, để trong ngăn mát 20 phút.',
+      'Làm nóng dầu trong nồi đáy dày. Cho phần sả còn lại vào đảo 30 giây, thêm gà và áp mặt 5–6 phút đến khi săn vàng.',
+      'Đổ nước lọc vào, đun sôi rồi hạ lửa nhỏ. Đậy hé nắp, kho 22–28 phút đến khi gà chín sát xương và nước kho sánh; thêm ớt rồi nêm lại.'
+    ],[
+      'Cut the chicken into 4–5 cm pieces and pat dry. Peel away tough lemongrass layers, rinse, finely chop the tender lower stalks, and slice the tops. Mince shallot, garlic, and chili.',
+      'Marinate the chicken with fish sauce, sugar, pepper, half the lemongrass, shallot, and garlic. Cover and refrigerate for 20 minutes.',
+      'Heat oil in a heavy pot. Stir-fry the remaining lemongrass for 30 seconds, add the chicken, and brown for 5–6 minutes.',
+      'Add the water and bring to a boil. Lower the heat, partly cover, and braise for 22–28 minutes until cooked through and the sauce is glossy. Add chili and adjust seasoning.'
+    ]),
+    'chicken-coconut-braise':rec(['thịt gà|chicken|g|600','nước dừa tươi|fresh coconut water|ml|400','hành tím|shallot|g|25','tỏi|garlic|g|10','nước mắm|fish sauce|ml|25','đường|sugar|g|15','tiêu đen|black pepper|g|1','dầu ăn|cooking oil|ml|12','nước lọc|water|ml|5'],[
+      'Chặt gà thành miếng vừa ăn, thấm khô. Băm hành tím và tỏi. Ướp gà với 15 ml nước mắm, tiêu, nửa lượng hành tỏi trong 20 phút ở ngăn mát.',
+      'Thắng đường với 1 thìa cà phê nước trong nồi đến màu hổ phách. Thêm dầu, cho gà vào áp mặt 5 phút cho săn và lên màu.',
+      'Cho phần hành tỏi còn lại vào đảo thơm. Rót nước dừa và phần nước mắm còn lại vào nồi, đun sôi.',
+      'Hạ lửa nhỏ, đậy hé nắp và kho 30–35 phút. Trở gà vài lần; khi thịt chín mềm và nước kho sánh thì nêm lại, dùng nóng.'
+    ],[
+      'Cut the chicken into serving pieces and pat dry. Mince the shallot and garlic. Marinate the chicken with 15 ml fish sauce, pepper, and half the aromatics; refrigerate for 20 minutes.',
+      'Melt the sugar with 1 teaspoon water in a pot until amber. Add oil and brown the chicken for about 5 minutes.',
+      'Add the remaining shallot and garlic and stir until fragrant. Pour in the coconut water and remaining fish sauce; bring to a boil.',
+      'Partly cover and braise gently for 30–35 minutes, turning the chicken a few times. Adjust seasoning when tender and the sauce has reduced.'
+    ]),
+    'pork-pickled-mustard-braise':rec(['thịt ba chỉ|pork belly|g|450','dưa cải chua|pickled mustard greens|g|300','cà chua|tomato|g|150','hành tím|shallot|g|20','tỏi|garlic|g|8','nước mắm|fish sauce|ml|18','đường|sugar|g|8','tiêu đen|black pepper|g|1','dầu ăn|cooking oil|ml|10','nước lọc|water|ml|180'],[
+      'Cắt ba chỉ thành lát dày 1 cm. Nếu dưa cải quá mặn hoặc chua gắt, xả nhanh một lần với nước rồi vắt nhẹ; cắt khúc 3 cm. Cắt cà chua múi cau, băm hành và tỏi.',
+      'Ướp thịt với nước mắm, đường, tiêu và một nửa hành tỏi trong 15 phút ở ngăn mát.',
+      'Làm nóng dầu, đảo thịt 6–8 phút đến khi săn và hơi xém cạnh. Thêm phần hành tỏi còn lại và cà chua, đảo đến khi cà chua mềm.',
+      'Cho dưa cải và nước lọc vào. Đun sôi, hạ lửa nhỏ, kho hé nắp 20–25 phút cho thịt mềm và dưa thấm vị. Nếm trước khi thêm muối vì dưa đã mặn.'
+    ],[
+      'Cut the pork belly into 1 cm slices. If the pickled greens are very salty or sharp, give them one quick rinse and gently squeeze dry; cut into 3 cm pieces. Cut tomatoes into wedges and mince shallot and garlic.',
+      'Marinate the pork with fish sauce, sugar, pepper, and half the aromatics for 15 minutes in the refrigerator.',
+      'Heat oil and stir-fry the pork for 6–8 minutes until browned. Add the remaining aromatics and tomatoes; cook until the tomatoes soften.',
+      'Add the pickled greens and water. Bring to a boil, then partly cover and simmer 20–25 minutes until tender. Taste before adding salt because the greens are already seasoned.'
+    ]),
+    'pork-daikon-braise':rec(['thịt ba chỉ|pork belly|g|450','củ cải trắng|daikon|g|350','nước dừa tươi|fresh coconut water|ml|200','hành tím|shallot|g|20','tỏi|garlic|g|8','nước mắm|fish sauce|ml|22','đường|sugar|g|12','tiêu đen|black pepper|g|1','dầu ăn|cooking oil|ml|10','nước lọc|water|ml|5'],[
+      'Cắt ba chỉ thành miếng 3 cm, thấm khô. Gọt vỏ củ cải, rửa sạch rồi cắt khoanh dày 2 cm; băm hành tím và tỏi.',
+      'Ướp thịt với 15 ml nước mắm, tiêu, một nửa hành tỏi trong 15 phút ở ngăn mát. Thắng đường với 1 thìa cà phê nước đến màu cánh gián.',
+      'Cho dầu và thịt vào nồi, đảo 5–7 phút đến khi săn. Thêm phần hành tỏi còn lại rồi rót nước dừa và phần nước mắm còn lại vào.',
+      'Kho nhỏ lửa, đậy hé nắp 25 phút. Cho củ cải vào, kho tiếp 18–22 phút đến khi củ cải trong mềm nhưng chưa nát; nêm lại và dọn.'
+    ],[
+      'Cut the pork belly into 3 cm pieces and pat dry. Peel and rinse the daikon, then cut into 2 cm rounds. Mince shallot and garlic.',
+      'Marinate the pork with 15 ml fish sauce, pepper, and half the aromatics for 15 minutes in the refrigerator. Melt the sugar with 1 teaspoon water until amber.',
+      'Add oil and pork to the pot; brown for 5–7 minutes. Add the remaining aromatics, coconut water, and remaining fish sauce.',
+      'Partly cover and simmer for 25 minutes. Add the daikon and braise 18–22 minutes more until translucent and tender but intact. Adjust seasoning and serve.'
+    ]),
+    'snakehead-turmeric-braise':rec(['cá lóc|snakehead fish|g|500','nghệ tươi|fresh turmeric|g|20','hành tím|shallot|g|20','tỏi|garlic|g|8','nước mắm|fish sauce|ml|22','đường|sugar|g|8','tiêu đen|black pepper|g|1','dầu ăn|cooking oil|ml|12','nước dừa tươi|fresh coconut water|ml|180'],[
+      'Nhờ người bán đánh vảy, bỏ mang và làm sạch ruột cá. Ở nhà, kiểm tra khoang bụng không còn màng đen, rửa nhanh cá dưới vòi nước mát rồi thấm thật khô; cắt khúc dày 3 cm. Gọt vỏ nghệ, giã hoặc băm nhuyễn.',
+      'Ướp cá với nước mắm, đường, tiêu, nghệ, hành tím và tỏi trong 15 phút ở ngăn mát. Xếp cá một lớp trong nồi để miếng không bị vỡ khi trở.',
+      'Làm nóng dầu, áp nhẹ từng mặt cá khoảng 2 phút cho săn. Rót nước dừa quanh thành nồi, đun sôi rồi hạ lửa nhỏ.',
+      'Kho hé nắp 15–20 phút; không đảo mạnh, chỉ lắc nồi hoặc rưới nước kho lên mặt cá. Khi cá chín, nước sánh màu nghệ thì nếm lại và dọn.'
+    ],[
+      'Ask the fishmonger to scale, gut, and remove the gills. At home, check that the dark belly lining is removed, briefly rinse the fish under cool running water, pat very dry, and cut into 3 cm steaks. Peel and finely grate or pound the turmeric.',
+      'Marinate the fish with fish sauce, sugar, pepper, turmeric, shallot, and garlic for 15 minutes in the refrigerator. Arrange in one layer in a pot to keep the steaks intact.',
+      'Heat oil and gently sear each side for about 2 minutes. Pour the coconut water around the edge of the pot, bring to a boil, then lower the heat.',
+      'Partly cover and braise for 15–20 minutes. Avoid stirring; gently shake the pot or spoon sauce over the fish. When cooked and the turmeric-colored sauce has reduced, adjust seasoning and serve.'
+    ]),
+    'shrimp-pork-caramel':rec(['tôm|shrimp|g|250','thịt ba chỉ|pork belly|g|200','hành tím|shallot|g|20','tỏi|garlic|g|8','nước mắm|fish sauce|ml|18','đường|sugar|g|12','tiêu đen|black pepper|g|1','dầu ăn|cooking oil|ml|8','nước lọc|water|ml|30'],[
+      'Cắt ba chỉ thành lát mỏng 5 mm. Bỏ đầu và chân tôm nếu muốn, rút chỉ lưng, rửa nhanh rồi thấm khô. Băm hành tím và tỏi.',
+      'Ướp thịt với 10 ml nước mắm, tiêu và một nửa hành tím trong 10 phút. Ướp tôm với phần nước mắm còn lại trong lúc chờ.',
+      'Cho thịt vào chảo nguội, bật lửa vừa để mỡ chảy và cạnh thịt vàng khoảng 7 phút. Gạt thịt sang bên, thêm đường với 1 thìa cà phê nước, thắng màu hổ phách.',
+      'Đảo thịt cùng nước màu, thêm hành tỏi rồi cho tôm vào. Rang lửa vừa 3–4 phút đến khi tôm chuyển hồng đục; thêm 30 ml nước, rim 2 phút cho sốt áo đều.'
+    ],[
+      'Slice the pork belly 5 mm thick. Remove shrimp heads and legs if desired, pull out the dark vein, rinse briefly, and pat dry. Mince shallot and garlic.',
+      'Marinate the pork with 10 ml fish sauce, pepper, and half the shallot for 10 minutes. Season the shrimp with the remaining fish sauce while you wait.',
+      'Start the pork in a cool pan over medium heat and render until the edges turn golden, about 7 minutes. Push it aside; melt the sugar with 1 teaspoon water until amber.',
+      'Toss the pork in the caramel, add the aromatics and shrimp, and cook 3–4 minutes until the shrimp are opaque and pink. Add 30 ml water and simmer 2 minutes to glaze.'
+    ]),
+    'ribs-pineapple-braise':rec(['sườn heo|pork ribs|g|500','thơm|pineapple|g|200','hành tím|shallot|g|20','tỏi|garlic|g|8','nước mắm|fish sauce|ml|22','đường|sugar|g|12','tiêu đen|black pepper|g|1','dầu ăn|cooking oil|ml|10','nước lọc|water|ml|250'],[
+      'Chặt sườn thành miếng 4–5 cm. Chần trong nồi nước sôi 2 phút, đổ bỏ nước, tráng sườn nhanh và để ráo. Gọt thơm, bỏ mắt, cắt miếng dày 2 cm; băm hành tỏi.',
+      'Ướp sườn với nước mắm, đường, tiêu và một nửa hành tỏi trong 15 phút ở ngăn mát.',
+      'Làm nóng dầu, áp sườn 5–6 phút đến khi vàng cạnh. Thêm phần hành tỏi còn lại, đảo thơm rồi cho 250 ml nước vào; đun sôi và hạ lửa nhỏ.',
+      'Đậy hé nắp, kho 25 phút đến khi sườn gần mềm. Cho thơm vào kho thêm 12–15 phút; nếm lại, để nước kho sánh nhẹ rồi dọn.'
+    ],[
+      'Cut the ribs into 4–5 cm pieces. Blanch in boiling water for 2 minutes, discard the water, briefly rinse the ribs, and drain. Peel the pineapple, remove the eyes, and cut into 2 cm chunks; mince shallot and garlic.',
+      'Marinate the ribs with fish sauce, sugar, pepper, and half the aromatics for 15 minutes in the refrigerator.',
+      'Heat oil and brown the ribs for 5–6 minutes. Add the remaining aromatics and stir until fragrant; add 250 ml water, bring to a boil, then lower the heat.',
+      'Partly cover and braise for 25 minutes until nearly tender. Add pineapple and cook 12–15 minutes more. Adjust seasoning and reduce the sauce slightly before serving.'
+    ]),
+    'pork-meatballs-tomato':rec(['thịt heo xay|ground pork|g|350','cà chua|tomato|g|300','trứng gà|egg|quả|1','hành tím|shallot|g|20','tỏi|garlic|g|8','hành lá|spring onion|g|15','nước mắm|fish sauce|ml|18','đường|sugar|g|6','tiêu đen|black pepper|g|1','bột bắp|cornstarch|g|8','dầu ăn|cooking oil|ml|15','nước lọc|water|ml|100'],[
+      'Băm hành tím, tỏi và hành lá. Cắt cà chua hạt lựu. Trộn thịt xay với trứng, 10 g hành lá, nửa hành tím, tiêu, 5 ml nước mắm và bột bắp; để lạnh 10 phút.',
+      'Thoa ít dầu lên tay, vo thịt thành 12–14 viên đường kính khoảng 3 cm. Làm nóng một nửa dầu, áp chảo viên thịt theo từng mẻ cho vàng các mặt; gắp ra.',
+      'Thêm phần dầu còn lại, phi thơm hành tím và tỏi. Cho cà chua, đường và 100 ml nước vào, đậy nắp nấu 6–8 phút đến khi cà chua mềm rồi dằm nhẹ thành sốt.',
+      'Cho viên thịt trở lại chảo, thêm phần nước mắm còn lại. Đậy nắp, rim nhỏ lửa 10–12 phút đến khi viên thịt chín tới giữa; rắc hành lá còn lại.'
+    ],[
+      'Mince shallot, garlic, and scallions. Dice the tomatoes. Mix ground pork with egg, 10 g scallions, half the shallot, pepper, 5 ml fish sauce, and cornstarch; chill for 10 minutes.',
+      'Lightly oil your hands and shape 12–14 meatballs, about 3 cm wide. Heat half the oil and brown the meatballs in batches; transfer to a plate.',
+      'Add the remaining oil, sauté the shallot and garlic, then add tomatoes, sugar, and 100 ml water. Cover and cook 6–8 minutes until soft; lightly mash into a sauce.',
+      'Return the meatballs to the pan and add the remaining fish sauce. Cover and simmer gently for 10–12 minutes until cooked through. Finish with the remaining scallions.'
+    ]),
+    'stuffed-tofu-tomato':rec(['đậu hũ|tofu|bìa|3','thịt heo xay|ground pork|g|180','cà chua|tomato|g|250','hành tím|shallot|g|15','tỏi|garlic|g|8','hành lá|spring onion|g|12','nước mắm|fish sauce|ml|18','đường|sugar|g|5','tiêu đen|black pepper|g|1','bột bắp|cornstarch|g|5','dầu ăn|cooking oil|ml|15','nước lọc|water|ml|120'],[
+      'Cắt mỗi bìa đậu thành 4 miếng dày khoảng 3 cm; dùng thìa nhỏ khoét một hõm ở giữa, giữ phần đậu khoét ra. Băm hành tím, tỏi, hành lá và cà chua.',
+      'Trộn thịt xay với hành lá, tiêu, 8 ml nước mắm, bột bắp và phần đậu đã khoét. Nhồi nhân vừa đầy vào từng miếng, không nén quá chặt.',
+      'Làm nóng dầu. Áp mặt nhân xuống chảo 3 phút cho se, trở nhẹ áp mặt còn lại 2 phút rồi gắp ra. Phi thơm hành tím, tỏi; cho cà chua, đường và 120 ml nước vào nấu thành sốt.',
+      'Đặt đậu nhồi vào sốt, đậy nắp om lửa nhỏ 12–15 phút đến khi nhân chín hẳn. Rưới sốt lên mặt, nêm phần nước mắm còn lại và dọn.'
+    ],[
+      'Cut each tofu block into four pieces about 3 cm thick. Use a small spoon to make a shallow pocket in each piece, saving the scooped tofu. Mince shallot, garlic, scallions, and tomatoes.',
+      'Mix ground pork with scallions, pepper, 8 ml fish sauce, cornstarch, and the saved tofu. Fill each pocket without packing the mixture too tightly.',
+      'Heat oil. Sear the filling side for 3 minutes, gently turn and sear the other side for 2 minutes; transfer out. Sauté shallot and garlic, then cook the tomatoes with sugar and 120 ml water into a sauce.',
+      'Nestle the stuffed tofu into the sauce, cover, and simmer gently for 12–15 minutes until the filling is cooked through. Spoon sauce over the tofu, season with remaining fish sauce, and serve.'
+    ]),
+    'eggplant-pork-stirfry':rec(['cà tím|eggplant|g|400','thịt heo xay|ground pork|g|180','hành tím|shallot|g|15','tỏi|garlic|g|10','hành lá|spring onion|g|15','nước mắm|fish sauce|ml|15','dầu hào|oyster sauce|ml|10','đường|sugar|g|4','tiêu đen|black pepper|g|1','dầu ăn|cooking oil|ml|18','nước lọc|water|ml|45'],[
+      'Rửa cà tím, bỏ cuống, cắt dọc thành miếng dài 5 cm. Ngâm trong tô nước pha 1 thìa cà phê muối 10 phút để hạn chế thâm; vớt ra xả nhanh và để ráo. Băm hành tím, tỏi, hành lá.',
+      'Ướp thịt xay với nước mắm, dầu hào, đường, tiêu và một nửa hành tím trong 10 phút. Thấm bớt nước trên cà tím.',
+      'Làm nóng dầu, áp chảo cà tím theo từng mẻ 3–4 phút đến khi mềm cạnh, gắp ra. Dùng cùng chảo, phi thơm phần hành tím còn lại và tỏi; xào thịt đến khi tơi và không còn hồng.',
+      'Cho cà tím và 45 ml nước vào chảo, đảo nhẹ, đậy nắp 3–4 phút cho chín mềm. Nếm lại, rắc hành lá rồi dùng nóng.'
+    ],[
+      'Rinse the eggplant, remove the stem, and cut lengthwise into 5 cm batons. Soak in a bowl of water with 1 teaspoon salt for 10 minutes to limit browning; drain, rinse briefly, and pat dry. Mince shallot, garlic, and scallions.',
+      'Season the ground pork with fish sauce, oyster sauce, sugar, pepper, and half the shallot for 10 minutes. Blot excess moisture from the eggplant.',
+      'Heat oil and pan-sear the eggplant in batches for 3–4 minutes until softened at the edges; set aside. In the same pan, sauté the remaining shallot and garlic, then cook the pork until no longer pink.',
+      'Return the eggplant and add 45 ml water. Toss gently, cover, and cook 3–4 minutes until tender. Adjust seasoning, add scallions, and serve hot.'
+    ]),
+    'veg-luffa-egg':rec(['mướp|luffa gourd|g|350','trứng gà|eggs|quả|3','hành lá|spring onion|g|10','tỏi|garlic|g|6','nước mắm|fish sauce|ml|8','dầu ăn|cooking oil|ml|12','tiêu trắng|white pepper|g|0.5'],[
+      'Gọt các đường gờ xơ của mướp, rửa sạch rồi cắt xéo lát dày khoảng 1 cm. Đập trứng vào bát, đánh tan với tiêu trắng và 3 ml nước mắm; cắt nhỏ hành lá.',
+      'Làm nóng 5 ml dầu, đổ trứng vào đảo nhẹ thành mảng vừa chín nhưng còn mềm; trút ra đĩa.',
+      'Thêm dầu còn lại, phi tỏi 15–20 giây. Cho mướp vào đảo lửa lớn 2–3 phút đến khi chuyển trong và vừa mềm; nếu chảo khô, thêm 1 thìa canh nước.',
+      'Cho trứng trở lại chảo, nêm phần nước mắm còn lại, đảo nhẹ 30 giây. Rắc hành lá và dùng ngay để mướp không ra nhiều nước.'
+    ],[
+      'Peel the ridged edges of the luffa, rinse, and cut on a diagonal into 1 cm slices. Beat the eggs with white pepper and 3 ml fish sauce; finely slice the scallions.',
+      'Heat 5 ml oil and gently scramble the eggs until just set but still soft. Transfer to a plate.',
+      'Add the remaining oil and sauté garlic for 15–20 seconds. Add the luffa and stir-fry over high heat for 2–3 minutes until translucent and just tender; add 1 tablespoon water if the pan is dry.',
+      'Return the eggs, season with the remaining fish sauce, and toss gently for 30 seconds. Add scallions and serve promptly so the luffa does not release too much liquid.'
+    ]),
+    'veg-sweet-potato-leaves-boil':rec(['rau lang|sweet potato leaves|g|350','muối|salt|g|3'],[
+      'Nhặt bỏ lá úa và cuống già; tuốt bỏ xơ ở phần cuống lớn, giữ cuống non dài 4–5 cm. Rửa rau trong 2–3 lần nước, đảo nhẹ để trôi đất cát rồi để ráo.',
+      'Đun nồi khoảng 2 lít nước với muối đến khi sôi mạnh. Nếm nước luộc hơi mặn nhẹ.',
+      'Cho phần cuống già hơn vào trước 30 giây, rồi thêm lá và cuống non; nhấn rau ngập nước.',
+      'Luộc 2–3 phút kể từ khi nước sôi lại, đến khi lá mềm xanh. Vớt ra để ráo; không đậy nắp lâu để rau giữ màu.'
+    ],[
+      'Remove wilted leaves and tough stems. Strip fibers from the thicker stems and keep tender stems in 4–5 cm lengths. Rinse the greens in 2–3 changes of water, gently swishing away grit, then drain.',
+      'Bring about 2 liters of water with the salt to a rolling boil; it should taste lightly seasoned.',
+      'Add the thicker stems first for 30 seconds, then add the leaves and tender stems. Press the greens under the water.',
+      'Boil for 2–3 minutes after the water returns to a boil, until tender and bright green. Drain well; avoid leaving the pot covered so the greens keep their color.'
+    ]),
+    'veg-sweet-potato-leaves-garlic':rec(['rau lang|sweet potato leaves|g|350','tỏi|garlic|g|15','dầu ăn|cooking oil|ml|15','nước mắm|fish sauce|ml|8','muối|salt|g|2','nước lọc|water|ml|30'],[
+      'Nhặt lá hỏng, bỏ cuống già và tuốt xơ phần cuống lớn. Rửa rau 2–3 lần nước, để ráo kỹ để khi xào ít bắn; băm tỏi.',
+      'Pha nước mắm, muối với 30 ml nước. Làm nóng chảo rộng đến khi thật nóng, cho dầu và tỏi vào đảo 15 giây.',
+      'Cho rau vào theo từng nắm, đảo liên tục trên lửa lớn 1–2 phút cho rau xẹp đều. Rưới hỗn hợp gia vị quanh thành chảo.',
+      'Đảo thêm 1–2 phút đến khi cuống vừa mềm, lá xanh; tắt bếp ngay, nếm lại rồi dọn.'
+    ],[
+      'Discard damaged leaves and tough stems; strip fibers from thicker stems. Rinse the greens in 2–3 changes of water and drain thoroughly to reduce splatter. Mince the garlic.',
+      'Mix fish sauce and salt with 30 ml water. Heat a wide pan until hot, add oil and garlic, and stir for 15 seconds.',
+      'Add the greens by handfuls and toss continuously over high heat for 1–2 minutes until evenly wilted. Pour the seasoning mixture around the side of the pan.',
+      'Stir-fry 1–2 minutes more until the stems are just tender and leaves are bright green. Turn off the heat, adjust seasoning, and serve promptly.'
+    ]),
+    'soup-purple-yam-pork':rec(['khoai mỡ|purple yam|g|350','thịt heo xay|ground pork|g|150','rau ngò om|rice paddy herb|g|10','hành lá|spring onion|g|10','hành tím|shallot|g|15','nước mắm|fish sauce|ml|12','muối|salt|g|3','tiêu đen|black pepper|g|1','dầu ăn|cooking oil|ml|8','nước lọc|water|ml|900'],[
+      'Gọt khoai mỡ, rửa nhanh, cắt miếng rồi băm hoặc bào sợi vào bát; tránh chạm tay lâu vào nhựa khoai nếu da nhạy cảm. Rửa ngò om và hành lá, cắt nhỏ; băm hành tím.',
+      'Ướp thịt xay với 5 ml nước mắm, tiêu và một nửa hành tím trong 10 phút. Đun nóng dầu, phi phần hành tím còn lại rồi cho thịt vào đảo tơi đến khi hết màu hồng.',
+      'Đổ 900 ml nước vào nồi, đun sôi và hớt bọt. Cho khoai mỡ vào từng phần, khuấy để khoai không vón; nấu lửa vừa 12–15 phút đến khi khoai mềm và nước canh sánh.',
+      'Nêm phần nước mắm còn lại và muối. Tắt bếp, cho ngò om và hành lá vào, để 1 phút rồi múc ra.'
+    ],[
+      'Peel the purple yam, rinse briefly, cut into pieces, then grate or finely chop into a bowl. If your skin is sensitive, avoid prolonged contact with the yam sap. Rinse and chop the rice paddy herb and scallions; mince shallot.',
+      'Marinate the ground pork with 5 ml fish sauce, pepper, and half the shallot for 10 minutes. Heat oil, sauté the remaining shallot, then cook the pork until no longer pink.',
+      'Add 900 ml water, bring to a boil, and skim foam. Add the yam gradually while stirring so it does not clump; simmer 12–15 minutes until tender and the broth thickens.',
+      'Season with the remaining fish sauce and salt. Turn off the heat, add the herbs and scallions, rest for 1 minute, and serve.'
+    ]),
+    'soup-wintermelon-shrimp':rec(['bí xanh|winter melon|g|350','tôm|shrimp|g|180','hành tím|shallot|g|12','hành lá|spring onion|g|10','nước mắm|fish sauce|ml|12','muối|salt|g|2','tiêu trắng|white pepper|g|0.5','dầu ăn|cooking oil|ml|8','nước lọc|water|ml|900'],[
+      'Gọt vỏ bí xanh, bổ đôi, dùng thìa nạo bỏ ruột và hạt già; rửa rồi cắt lát dày 5 mm. Bỏ đầu, bóc vỏ và rút chỉ lưng tôm; rửa nhanh, để ráo rồi băm thô.',
+      'Ướp tôm với 5 ml nước mắm và tiêu trắng trong 10 phút. Băm hành tím; cắt nhỏ hành lá.',
+      'Làm nóng dầu, phi hành tím 20 giây. Cho tôm vào đảo đến khi chuyển hồng, thêm 900 ml nước và đun sôi; hớt bọt để nước canh trong.',
+      'Cho bí vào nấu 5–7 phút đến khi vừa trong mềm nhưng còn giữ hình. Nêm muối và phần nước mắm còn lại, rắc hành lá rồi tắt bếp.'
+    ],[
+      'Peel the winter melon, halve it, and scrape out the spongy center and mature seeds with a spoon. Rinse and slice 5 mm thick. Remove shrimp heads and shells, devein, rinse briefly, drain, and coarsely chop.',
+      'Season the shrimp with 5 ml fish sauce and white pepper for 10 minutes. Mince shallot and slice the scallions.',
+      'Heat oil and sauté shallot for 20 seconds. Add shrimp and cook until pink, pour in 900 ml water, and bring to a boil; skim foam for a clear broth.',
+      'Add winter melon and simmer 5–7 minutes until translucent and tender but still holding its shape. Season with salt and remaining fish sauce, add scallions, and turn off the heat.'
     ])
   };
 })();
